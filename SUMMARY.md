@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [AWS-CDA-2020](README.md)
+* [Recommended Papers](recommended-papers.md)
 
